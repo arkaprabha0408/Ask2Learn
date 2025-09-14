@@ -1,0 +1,397 @@
+{
+  "chunks": [
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 0.0,
+      "end": 2.0,
+      "text": " after 5 years I will run it"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 2.0,
+      "end": 4.0,
+      "text": " so first I will get hello word"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 4.0,
+      "end": 6.0,
+      "text": " then I will get 5"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 6.0,
+      "end": 8.0,
+      "text": " we ran python in terminal"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 8.0,
+      "end": 10.0,
+      "text": " we saw that when"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 10.0,
+      "end": 12.0,
+      "text": " I write python3 in terminal"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 12.0,
+      "end": 14.0,
+      "text": " and then I write"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 14.0,
+      "end": 16.0,
+      "text": " print hello word"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 16.0,
+      "end": 18.0,
+      "text": " so I am getting everything"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 18.0,
+      "end": 20.0,
+      "text": " manually"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 20.0,
+      "end": 22.0,
+      "text": " I have to do it manually"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 22.0,
+      "end": 24.0,
+      "text": " type everything one by one"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 24.0,
+      "end": 26.0,
+      "text": " first I typed hello word"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 26.0,
+      "end": 28.0,
+      "text": " then I typed"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 28.0,
+      "end": 30.0,
+      "text": " print 5"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 30.0,
+      "end": 32.0,
+      "text": " so will I type everything one by one"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 32.0,
+      "end": 34.0,
+      "text": " no, I don't need to type one by one"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 34.0,
+      "end": 36.0,
+      "text": " I can make a script"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 36.0,
+      "end": 38.0,
+      "text": " so I made a script named main.py"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 38.0,
+      "end": 40.0,
+      "text": " script means"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 40.0,
+      "end": 42.0,
+      "text": " line by line execution"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 42.0,
+      "end": 44.0,
+      "text": " if I have written hello word first"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 44.0,
+      "end": 46.0,
+      "text": " then print 5 will execute"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 46.0,
+      "end": 48.0,
+      "text": " and as I"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 48.0,
+      "end": 50.0,
+      "text": " assume print"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 50.0,
+      "end": 52.0,
+      "text": " by"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 52.0,
+      "end": 54.0,
+      "text": " I will write like this"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 54.0,
+      "end": 56.0,
+      "text": " then I will run"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 56.0,
+      "end": 58.0,
+      "text": " so I will get everything one by one"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 58.0,
+      "end": 60.0,
+      "text": " because the script is running line by line"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 60.0,
+      "end": 62.0,
+      "text": " now we don't need to know"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 62.0,
+      "end": 64.0,
+      "text": " how print is written"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 64.0,
+      "end": 66.0,
+      "text": " if you want to know"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 66.0,
+      "end": 68.0,
+      "text": " what are the uses of print"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 68.0,
+      "end": 70.0,
+      "text": " so this is telling me"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 70.0,
+      "end": 72.0,
+      "text": " as I took my mouse here"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 72.0,
+      "end": 74.0,
+      "text": " it is telling me to give values"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 74.0,
+      "end": 76.0,
+      "text": " you can also give multiple values"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 76.0,
+      "end": 78.0,
+      "text": " like this"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 78.0,
+      "end": 80.0,
+      "text": " like I did hello word comma 7"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 80.0,
+      "end": 82.0,
+      "text": " then I got 7"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 82.0,
+      "end": 84.0,
+      "text": " then next statement was executed"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 84.0,
+      "end": 86.0,
+      "text": " and line by line"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 86.0,
+      "end": 88.0,
+      "text": " our script will be executed"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 88.0,
+      "end": 90.0,
+      "text": " can we print only python programming language"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 90.0,
+      "end": 92.0,
+      "text": " with this ayat?"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 92.0,
+      "end": 94.0,
+      "text": " no, we can't only print"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 94.0,
+      "end": 96.0,
+      "text": " we can do many things"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 96.0,
+      "end": 98.0,
+      "text": " and this is the main"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 98.0,
+      "end": 100.0,
+      "text": " of this course"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 100.0,
+      "end": 102.0,
+      "text": " so I will write"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 102.0,
+      "end": 104.0,
+      "text": " hello word comma 7"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 104.0,
+      "end": 106.0,
+      "text": " then I will write"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 106.0,
+      "end": 108.0,
+      "text": " hello word comma 7"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " then I will write hello word comma 7"
+    },
+    {
+      "number": "4",
+      "title": "PythonDay4",
+      "start": 110.0,
+      "end": 112.0,
+      "text": " then I will write hello word comma 7"
+    }
+  ],
+  "text": " after 5 years I will run it so first I will get hello word then I will get 5 we ran python in terminal we saw that when I write python3 in terminal and then I write print hello word so I am getting everything manually I have to do it manually type everything one by one first I typed hello word then I typed print 5 so will I type everything one by one no, I don't need to type one by one I can make a script so I made a script named main.py script means line by line execution if I have written hello word first then print 5 will execute and as I assume print by I will write like this then I will run so I will get everything one by one because the script is running line by line now we don't need to know how print is written if you want to know what are the uses of print so this is telling me as I took my mouse here it is telling me to give values you can also give multiple values like this like I did hello word comma 7 then I got 7 then next statement was executed and line by line our script will be executed can we print only python programming language with this ayat? no, we can't only print we can do many things and this is the main of this course so I will write hello word comma 7 then I will write hello word comma 7 then I will write hello word comma 7 then I will write hello word comma 7"
+}

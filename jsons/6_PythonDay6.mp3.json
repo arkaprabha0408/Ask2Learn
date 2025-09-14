@@ -1,0 +1,236 @@
+{
+  "chunks": [
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 0.0,
+      "end": 3.0,
+      "text": " modulo operator"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 3.0,
+      "end": 6.0,
+      "text": " what does modulo operator do?"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 6.0,
+      "end": 9.0,
+      "text": " if I write 15% 6"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 9.0,
+      "end": 12.0,
+      "text": " it means"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 12.0,
+      "end": 15.0,
+      "text": " if I divide 15 by 6"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 15.0,
+      "end": 18.0,
+      "text": " or I give you a simple example"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 18.0,
+      "end": 21.0,
+      "text": " if I divide by 3, then 2 will remain"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 21.0,
+      "end": 24.0,
+      "text": " so it gives remainder"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 24.0,
+      "end": 27.0,
+      "text": " if I divide 5 by 3, then 2 will remain"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 27.0,
+      "end": 30.0,
+      "text": " if I divide by 6, then 2 will remain"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 30.0,
+      "end": 33.0,
+      "text": " but if I divide by 6, then 2 will remain"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 33.0,
+      "end": 36.0,
+      "text": " and only 2 will remain"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 36.0,
+      "end": 39.0,
+      "text": " 15 by 6 is 2.5, 15 by 6 is 90"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 39.0,
+      "end": 42.0,
+      "text": " so these are all modulo operators"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 42.0,
+      "end": 45.0,
+      "text": " which are addition, subtraction, multiplication"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 45.0,
+      "end": 48.0,
+      "text": " now exponential operator is division"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 48.0,
+      "end": 51.0,
+      "text": " so I will correct it"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 51.0,
+      "end": 54.0,
+      "text": " and I will tell you what is exponential operator"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 54.0,
+      "end": 57.0,
+      "text": " if I write 5 by 5, then 5 will be 5"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 57.0,
+      "end": 60.0,
+      "text": " so 5 to the power 3"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 60.0,
+      "end": 63.0,
+      "text": " so I will fix it and come back"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 63.0,
+      "end": 66.0,
+      "text": " how did I write divide in exponential?"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 66.0,
+      "end": 69.0,
+      "text": " now some of you might be saying that you made a mistake"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 69.0,
+      "end": 72.0,
+      "text": " you are a person, you make mistakes"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 72.0,
+      "end": 75.0,
+      "text": " so I have written star star in exponential"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 75.0,
+      "end": 78.0,
+      "text": " and I have told you all these operators"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 78.0,
+      "end": 81.0,
+      "text": " try out 5 by 5, 3 times"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 81.0,
+      "end": 84.0,
+      "text": " if I write 4 by 4, then 5 will be multiplied"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 84.0,
+      "end": 87.0,
+      "text": " if I multiply 5 by 4, then what will happen?"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 87.0,
+      "end": 90.0,
+      "text": " so it's a simple thing"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 90.0,
+      "end": 93.0,
+      "text": " if I write 2x4, then 2x2x2x2x2"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 93.0,
+      "end": 96.0,
+      "text": " so 4x2, how much will it be? 16"
+    },
+    {
+      "number": "6",
+      "title": "PythonDay6",
+      "start": 96.0,
+      "end": 99.0,
+      "text": " so try it out"
+    }
+  ],
+  "text": " modulo operator what does modulo operator do? if I write 15% 6 it means if I divide 15 by 6 or I give you a simple example if I divide by 3, then 2 will remain so it gives remainder if I divide 5 by 3, then 2 will remain if I divide by 6, then 2 will remain but if I divide by 6, then 2 will remain and only 2 will remain 15 by 6 is 2.5, 15 by 6 is 90 so these are all modulo operators which are addition, subtraction, multiplication now exponential operator is division so I will correct it and I will tell you what is exponential operator if I write 5 by 5, then 5 will be 5 so 5 to the power 3 so I will fix it and come back how did I write divide in exponential? now some of you might be saying that you made a mistake you are a person, you make mistakes so I have written star star in exponential and I have told you all these operators try out 5 by 5, 3 times if I write 4 by 4, then 5 will be multiplied if I multiply 5 by 4, then what will happen? so it's a simple thing if I write 2x4, then 2x2x2x2x2 so 4x2, how much will it be? 16 so try it out"
+}

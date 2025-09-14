@@ -1,0 +1,320 @@
+{
+  "chunks": [
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 0.0,
+      "end": 2.46,
+      "text": " it's installing it, which might take some time"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 2.46,
+      "end": 4.46,
+      "text": " what is sklearn? it's a machine learning library"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 4.46,
+      "end": 7.46,
+      "text": " are we using it? not just yet"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 7.46,
+      "end": 9.46,
+      "text": " so if I type sklearn here"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 9.46,
+      "end": 12.96,
+      "text": " you'll get to see the machine learning library in python"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 12.96,
+      "end": 15.96,
+      "text": " we'll do everything, we'll make a blast"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 15.96,
+      "end": 18.96,
+      "text": " don't worry, many people are commenting that"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 18.96,
+      "end": 21.96,
+      "text": " it's running very slow, we know all this"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 21.96,
+      "end": 24.96,
+      "text": " I'll meet them after a few days, when the difficulty level will increase"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 24.96,
+      "end": 26.96,
+      "text": " and there will be an understanding guarantee"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 26.96,
+      "end": 28.96,
+      "text": " follow me step by step"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 28.96,
+      "end": 30.96,
+      "text": " now I want to show you"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 30.96,
+      "end": 32.96,
+      "text": " as soon as it's installed"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 32.96,
+      "end": 35.96,
+      "text": " and as soon as I type python3"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 35.96,
+      "end": 37.96,
+      "text": " I want to show you import sklearn"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 37.96,
+      "end": 41.96,
+      "text": " that import sklearn will work"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 41.96,
+      "end": 43.96,
+      "text": " now see, import sklearn will work"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 43.96,
+      "end": 45.96,
+      "text": " no, it won't come, ok"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 45.96,
+      "end": 47.96,
+      "text": " so I'll exit it"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 47.96,
+      "end": 51.96,
+      "text": " now this thing, which we can see by typing python3"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 51.96,
+      "end": 53.96,
+      "text": " it's a raple, it's repl"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 53.96,
+      "end": 57.96,
+      "text": " repl means read, evaluate, print loop"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 57.96,
+      "end": 60.96,
+      "text": " we won't use it, we'll write proper programs"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 60.96,
+      "end": 63.96,
+      "text": " and we'll execute it by writing python scripts"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 63.96,
+      "end": 65.96000000000001,
+      "text": " and I'm using a raplet for this"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 65.96000000000001,
+      "end": 67.96000000000001,
+      "text": " that you can do it without a raplet"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 67.96000000000001,
+      "end": 70.96000000000001,
+      "text": " absolutely it's possible, but I'm using a raplet"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 70.96000000000001,
+      "end": 72.96000000000001,
+      "text": " because it's very convenient"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 72.96000000000001,
+      "end": 75.96000000000001,
+      "text": " so I'll make a main.py file"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 75.96000000000001,
+      "end": 78.96000000000001,
+      "text": " and I'll take the console output here"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 78.96000000000001,
+      "end": 81.96000000000001,
+      "text": " as you can see, as I drag it here"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 81.96000000000001,
+      "end": 83.96000000000001,
+      "text": " I'll get to see the output here"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 83.96000000000001,
+      "end": 85.96000000000001,
+      "text": " you'll get to see my video here"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 85.96,
+      "end": 87.96,
+      "text": " because it's going to be super convenient for you"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 87.96,
+      "end": 90.96,
+      "text": " so in main.py, what I'll simply write here"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 90.96,
+      "end": 92.96,
+      "text": " import pandas"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 92.96,
+      "end": 94.96,
+      "text": " and the best thing about raplet"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 94.96,
+      "end": 97.96,
+      "text": " as soon as I run it, it'll detect that there's no pandas"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 97.96,
+      "end": 99.96,
+      "text": " so it'll automatically install it"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 99.96,
+      "end": 101.96,
+      "text": " so don't get confused why there's no error"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 101.96,
+      "end": 104.96,
+      "text": " there's no error because raplet"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 104.96,
+      "end": 107.96,
+      "text": " has started to install it for your convenience"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 107.96,
+      "end": 109.96,
+      "text": " raplet wants that when you're programming"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 109.96,
+      "end": 110.96,
+      "text": " you'll get convenience"
+    },
+    {
+      "number": "3",
+      "title": "PythonDay3",
+      "start": 110.96,
+      "end": 112.96,
+      "text": " but you need to know the concepts"
+    }
+  ],
+  "text": " it's installing it, which might take some time what is sklearn? it's a machine learning library are we using it? not just yet so if I type sklearn here you'll get to see the machine learning library in python we'll do everything, we'll make a blast don't worry, many people are commenting that it's running very slow, we know all this I'll meet them after a few days, when the difficulty level will increase and there will be an understanding guarantee follow me step by step now I want to show you as soon as it's installed and as soon as I type python3 I want to show you import sklearn that import sklearn will work now see, import sklearn will work no, it won't come, ok so I'll exit it now this thing, which we can see by typing python3 it's a raple, it's repl repl means read, evaluate, print loop we won't use it, we'll write proper programs and we'll execute it by writing python scripts and I'm using a raplet for this that you can do it without a raplet absolutely it's possible, but I'm using a raplet because it's very convenient so I'll make a main.py file and I'll take the console output here as you can see, as I drag it here I'll get to see the output here you'll get to see my video here because it's going to be super convenient for you so in main.py, what I'll simply write here import pandas and the best thing about raplet as soon as I run it, it'll detect that there's no pandas so it'll automatically install it so don't get confused why there's no error there's no error because raplet has started to install it for your convenience raplet wants that when you're programming you'll get convenience but you need to know the concepts"
+}

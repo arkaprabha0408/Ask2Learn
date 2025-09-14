@@ -1,0 +1,11 @@
+I'd be happy to help you with your web development journey.
+
+It seems like the videos are part of a Python tutorial series, as indicated by "PythonDay9", "PythonDay4", and so on. 
+
+Now, regarding your question about India's capital - unfortunately, it's not covered in any of the provided video chunks. The content seems to be focused on converting data types, specifically between strings and integers.
+
+However, I can help you figure out which Python tutorial section covers basic conversion concepts or data types.
+
+From what I've gathered, it appears that some basic data type conversations have occurred early on in "PythonDay4", where they discuss the concept of variables with this "ayaat" (I'm assuming that's a typo and meant to be 'ayaat' from the Quran). There might also be something about integer conversions around Python Day 9.
+
+You can check those out and see if you find any relevant information on basic data type conversion in general, which could potentially be applied to finding the capital of India.

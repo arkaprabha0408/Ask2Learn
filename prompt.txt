@@ -1,0 +1,6 @@
+I am an engineer learning web development . Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"PythonDay9","number":"9","start":57.0,"end":60.0,"text":" how to convert?"},{"title":"PythonDay4","number":"4","start":90.0,"end":92.0,"text":" with this ayat?"},{"title":"PythonDay9","number":"9","start":63.0,"end":66.0,"text":" convert it into integer"},{"title":"PythonDay4","number":"4","start":96.0,"end":98.0,"text":" and this is the main"},{"title":"PythonDay6","number":"6","start":9.0,"end":12.0,"text":" it means"}]
+---------------------------------
+"What is the capital of India?"
+I asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide me to go to that particular video. If I ask any unrelated questions, tell me that I can only answer questions related to the course
